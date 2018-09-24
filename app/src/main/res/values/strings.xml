@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Laboratorio02</string>
     <string name="main_titulo">Menu de opciones</string>
+    <string name="nuevo_pedido">Nuevo Pedido</string>
+    <string name="vListaProd">Ver Lista de Productos</string>
+    <string name="vHistorialPedidos">Historial de Pedidos</string>
+    <string name="selCategoria">Seleccionar una categoría</string>
+    <string name="listProductos">Lista de Productos</string>
+    <string name="cantPedir">Cantidad a pedir</string>
+    <string name="defectoCantidad">0</string>
+    <string name="btnAgregar">Agregar</string>
 </resources>
